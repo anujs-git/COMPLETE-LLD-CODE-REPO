@@ -1,5 +1,6 @@
-package Parking_Lot.Parking_Spot;
-public abstract class ParkingSpot{
+package Parking_Lot.src.main.java.ParkingLot.Parking_Spot;
+
+public class ParkingSpot{
    int id;
    Boolean isEmpty;
    int price;

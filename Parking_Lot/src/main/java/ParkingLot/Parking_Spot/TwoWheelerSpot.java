@@ -1,4 +1,4 @@
-package Parking_Lot.Parking_Spot;
+package Parking_Lot.src.main.java.ParkingLot.Parking_Spot;
 public class TwoWheelerSpot extends ParkingSpot{
     int twoWheelPrice=10;
     public TwoWheelerSpot(int id){
